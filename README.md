@@ -3,7 +3,7 @@
 
 **Dataset Used:** [Wine Quality Dataset (White-Wine)](https://archive.ics.uci.edu/ml/datasets/wine+quality)
 
-| Number of Instances:  | 4898  |
+| Number of Instances:  | 5898  |
 |-----------------------|--------|
 | Number of Attributes: | 12     |
 
