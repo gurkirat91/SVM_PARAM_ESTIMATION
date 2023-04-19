@@ -1,7 +1,7 @@
 # Parameter-Optimisation-SVM
 
 
-**Dataset Used:** [Default of Credit Card Clients](https://archive.ics.uci.edu/ml/datasets/wine+quality)
+**Dataset Used:** [Wine Quality Dataset (White-Wine)](https://archive.ics.uci.edu/ml/datasets/wine+quality)
 
 | Number of Instances:  | 4898  |
 |-----------------------|--------|
